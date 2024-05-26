@@ -1,0 +1,43 @@
+body{
+    background-color:azure;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(5, 5, 151);
+    text-align: center;
+}
+
+h2, h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: blue;
+}
+
+img {
+    display: block;
+    width: 200px;
+    height: auto;
+    margin: auto;
+}
+
+h2, h3 {
+    text-align: center;
+}
+
+p{
+    width: 50%;
+    margin: 20px auto;
+    display: block;
+}
+
+ul, ol {
+    display: block;    
+}
+
+.ingredient {
+    margin: 10px auto;
+    display: block;
+    width: 20%;
+}
